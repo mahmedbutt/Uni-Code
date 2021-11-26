@@ -1,0 +1,23 @@
+# include < iostream >
+using namespace std;
+{
+float length;
+length=0;
+float width;
+width=0
+cout<<"Enter the length";
+cin>>length;
+cout<<"Enter the width";
+cin>>width;
+float area;
+area=0;
+a0ea=length*width;
+float perimeter;
+perimeter=0;
+perimeter=((2*length)+(2*width));
+cout<<"The area is";
+cout<<area;
+cout<<"The perimeter is";
+cout<<perimeter;
+return0;
+}
